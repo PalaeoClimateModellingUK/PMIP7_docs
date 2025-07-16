@@ -2,9 +2,9 @@
 
 The structure of CMIP7 is slightly different than it has been in previous iterations. This time around there is a ['Fast Track'](https://wcrp-cmip.org/cmip-phases/cmip7/fast-track/) with endorsed and vetted experiments. And then the rest is left up to community MIPS to determine their own experiments and hierarchy within them. 
 
-It is hoped that many CMIP7 models perform the Fast Track experiment, even if they do not choose to enter PMIP itself. To be considered part of CMIP7, a model must completed the extended DECK. This requires running the amip, abrupt4xCO2, piControl (and esm-piControl for ESMs) and 1pctCO2 for CMIP6, as well as a historical, piClim-control, piClim-anthro, piClim-4xCO2 simulations. 
+It is hoped that many CMIP7 models perform the Fast Track experiment, even if they do not choose to enter PMIP itself. To be considered part of CMIP7, a model must complete the extended DECK. This requires running the amip, abrupt4xCO2, piControl (and esm-piControl for ESMs) and 1pctCO2 for CMIP6, as well as a historical, piClim-control, piClim-anthro, piClim-4xCO2 simulations. 
 
-As an entry card for PMIP7 models must perform an experiement that allows model development to be assess through multiple generations of PMIP. Functionally, this would be midHolocene, lgm, lig127k or Pliocene. They must also perform a piControl simulation and distribute that output. Models participating in PMIP7, do not also have to participate in CMIP7. Although previously (in PMIP4), did not get including in the paleoclimate component of the [IPCC Interactive Atlas](https://interactive-atlas.ipcc.ch/permalink/vb8Lecgj) unless they were part of CMIP6 and had also uploaded experiment output onto the ESGF.
+As an entry card for PMIP7, models must perform an experiement that allows model development to be assess through multiple generations of PMIP. Functionally, this would be midHolocene, lgm, lig127k or Pliocene. They must also perform a piControl simulation and distribute that output. Models participating in PMIP7 do not also have to participate in CMIP7. Although previously (in PMIP4) a model was not included in the paleoclimate component of the [IPCC Interactive Atlas](https://interactive-atlas.ipcc.ch/permalink/vb8Lecgj) unless they were part of CMIP6 and had also uploaded experiment output onto the ESGF.
 
 ## CMIP7 Fast Track
 - [abrupt-127k](https://wcrp-cmip.org/wp-content/uploads/2023/12/Revised-PMIP-proposal-for-CMIP-fast-track.pdf)
@@ -21,11 +21,12 @@ As an entry card for PMIP7 models must perform an experiement that allows model 
 - Last Interglacial
   - A formal protocol paper for this experiment is yet to written. It is being coordinated by the [Interglacials Working Group](https://www.pmip-interglacials.de). It will be an extension of the abrupt-127k Fast Track experiment, whose epxeriemtnal design is described on the [CMIP7 webpage](https://wcrp-cmip.org/wp-content/uploads/2023/12/Revised-PMIP-proposal-for-CMIP-fast-track.pdf)
 - Late Pliocene
+  - This experiment is described in [Haywood et al. 2024](https://www.sciencedirect.com/science/article/pii/S0921818123002904). It was previously called midPliocene-eoi400 in CMIP6. 
 - Miocene
 - Eocene
 
 ## PMIP7 Tier 2 
-
+_The nature of the Tier 2 experiments are still under consideration_
 
 # PMIP4 experimental design
 
