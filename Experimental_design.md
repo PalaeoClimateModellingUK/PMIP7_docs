@@ -26,7 +26,21 @@ As an entry card for PMIP7, models must perform an experiement that allows model
 - Eocene
 
 ## PMIP7 Tier 2 
-_The nature of the Tier 2 experiments are still under consideration_
+_The nature of the Tier 2 experiments are still under consideration, and will be primarily administered by the individual working groups. Some example experiments are_
+- Transient Holocene: extensions of past2k, with an ensemble of opportunity already available although this is not curated and under-utilised
+- HiRes PMIP: using high resolution models for paleo
+- 8.2ka: a possible mirror of WhatIfMIP’s N. Atlantic hosing expts   
+- Last Deglaciation: transient experiments that start from the lgm condition
+- PMIP-Carbon: a glacial experiment aimed at understanding carbon cycle changes  
+- MIS3: exploring internal Dansgaard-Oeschger events
+- MIS11: simulating the interglacial most like Holocene
+- MIS31: interesting interglacial prior to 100 kyr world
+- earlyPliocene: similar to latePliocene, but with a Central American Seaway
+- Eocene-Oligocene: exploring the transition from a hothouse to an icehouse world
+
+
+
+---
 
 # PMIP4 experimental design
 

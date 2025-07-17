@@ -1,0 +1,22 @@
+# 17 Jul 2025
+
+Hello PMIP folks,
+
+It’s time that I gave everybody a bit of an update about where we are with PMIP. I know that Masa and I saw a few of you at either EGU or PAGES. Most of the PMIP organising, so far has been involved with getting things ready - either with individual models, CMIP7 stuff or experiment planning and data organisation - without necesarily visible outputs. I’ll try to organise this update into several sections: experiments, timings, what’s next, and how can you help
+
+**Numbering**: They next round of PMIP is going to be PMIP7. This is to catch-up with both the IPCC and CMIP numbering.  
+
+**Experiments**: The precise experimental protocols are being decided by the working groups leadning them. They are at different stages of development - from having been published already to still being discussed. However, a hierarchy of experiments has emerged. PMIP has a single sponsored experiment in the CMIP7 Fast Track, called _abrupt-127k_. We then get into the actual PMIP7 series of experiments that we're calling Tier 1. These are the main plank of our community experiments, and consist of all the experiments that were CMIP-endorsed last time with the addition of a Miocene experiment. Many other experiments have been devised, such as sensitivity experiments and transient runs: these are considered Tier 2. Please see [_Experimental Design_](https://pmip.lsce.ipsl.fr/protocols_and_data/experimental_design) on the PMIP website for a full listing.
+
+**Model Output**: Like the previous version of CMIP, data will be stored on the ESGF. However, their space is not unlimited. So, you should find your local node, tell them that you plan to contribute to PMIP7 and give them idea of how much space you'll need. The specification of the model variables for CMIP7 is currently under open peer-review, although the [massive spreadsheet is elsewhere](https://wcrp-cmip.org/cmip7-data-request-v1-2-1/). There is a particular 'opportunity' about paleoclimate variables. It's on page 12 of the [Ocean & Sea Ice Request](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3083/).   
+
+**Timings**: PMIP7 can set up its own timelines. We don't like to specify arbitrary deadlines: so will accept model runs whenever they become ready. However, PMIP doesn't work in isolation. There is a 'CMIP data delivery guideline' of Dec 2026, which is associated with the [Fast Track](https://wcrp-cmip.org/cmip-phases/cmip7/fast-track/). The IPCC still doesn't have accepted dates, although the relevant one for our community is very probably that papers must be submitted in Late 2027 (as the IPCC AR7 WG1 publication is pencilled in as May 2028). We will get experimental protocols documented as soon as possible, and advertised on this list. The protocol paper for the abrupt-127k simulation will be submitted in the next month, and the set-up remains that specified in the [CMIP experiment tracker](https://wcrp-cmip.org/wp-content/uploads/2023/12/Revised-PMIP-proposal-for-CMIP-fast-track.pdf)
+
+**Upcoming Tasks**: The main task is for groups to run experiments with their own climate model. We fully appreciate that this can be a substantial task. I know that you'll have your own research priorities, so feel free to focus on doing whichever experiments that help you most. We would love for as many modelling groups as possible to complete the abrupt-127k Fast Track experiment with their flagship model (it is a short run and doesn't need any land-sea mask changes). If you need help or advice please do reach out for early access to a particular experiment protocol, implementation assistance or help translating the data-request. Another important task revolves around the proxy community, where we appreciate the efforts to compile data to evaluate the model simulations against.
+
+**Getting involved** Developing and running simulations is a big enough task. But there are several specific tasks that we need some help with:
+- Guest editors for a potential special issue in Climate of the Past (email me at c.brierley@ucl.ac.uk)
+- Volunteers to give an online presentation during our 'mopnthly' seminars (email pmip-wings@lsce.ipsl.fr)
+- Help writing the glacial, interglacial and last millennium protocol papers (email Masa Kageyama, Christian Stepanek and Myriam Khodri respectively)
+- Complete upcoming questionnaires about your particular model and intended contribution.
+
