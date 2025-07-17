@@ -1,6 +1,6 @@
 # PMIP7 experimental design
 
-The structure of CMIP7 is slightly different than it has been in previous iterations. This time around there is a ['Fast Track'](https://wcrp-cmip.org/cmip-phases/cmip7/fast-track/) with endorsed and vetted experiments. And then the rest is left up to community MIPS to determine their own experiments and hierarchy within them. 
+The structure of CMIP7 is slightly different than it has been in previous iterations. This time around there is a ['Fast Track'](https://wcrp-cmip.org/cmip-phases/cmip7/fast-track/) with endorsed and vetted experiments. And then it is left up to community MIPs to determine their own experiments and hierarchy within them. 
 
 It is hoped that many CMIP7 models perform the Fast Track experiment, even if they do not choose to enter PMIP itself. To be considered part of CMIP7, a model must complete the extended DECK. This requires running the amip, abrupt4xCO2, piControl (and esm-piControl for ESMs) and 1pctCO2 for CMIP6, as well as a historical, piClim-control, piClim-anthro, piClim-4xCO2 simulations. 
 
