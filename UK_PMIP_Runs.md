@@ -13,9 +13,8 @@ The Met Office has already started doing a lot of the DECK. UCL will explore doi
 ### HadGEM3-GC5-central
 [past2future](https://past2future.org/) have adopted this as their main UK model. 
 * Bristol will perform the lgm and Eocene.
-* Leeds will do the latePliocene.
+* Leeds will do the latePliocene and midHolocene.
 * BAS will do the abrupt-127k and lig127k.
-* _Someone_ will do the midHolocene.
 
 ### UKESM2
 This model will be available from July 2026. ARCHER2 shuts down in Nov 2026. There are no immediate plans to undertake PMIP simulations with this model.
