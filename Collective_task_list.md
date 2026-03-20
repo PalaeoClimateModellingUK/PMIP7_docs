@@ -1,7 +1,7 @@
 # What do we need to do to deliver
 
-- [ ] Call for an SSC meeting (date selection)
-- [ ] Plan WINGS meetings. Start with April as CMIP Workshop debrief and update
+- [x] Call for an SSC meeting (date selection)
+- [x] Plan WINGS meetings. Start with April as CMIP Workshop debrief and update
 - [ ] Summarise current status of protocols & papers
 - [ ] Look at modelling group response lists - who is interested
 - [ ] Make a direct mailing list of abrupt-127k interested parties: email when protocol accepted
