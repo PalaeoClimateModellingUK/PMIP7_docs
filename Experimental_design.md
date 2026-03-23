@@ -24,6 +24,7 @@ As an entry card for PMIP7, models must perform an experiement that allows model
   - This experiment is described in [Haywood et al. 2024](https://www.sciencedirect.com/science/article/pii/S0921818123002904). It was previously called midPliocene-eoi400 in CMIP6. 
 - Miocene
 - Eocene
+  - The experimental protocol is currently under review as [Lunt et al. (2026)](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6135/). This is an early Eocene simulation with 5xCO2.
 
 ## PMIP7 Tier 2 
 _The nature of the Tier 2 experiments are still under consideration, and will be primarily administered by the individual working groups. Some example experiments are_

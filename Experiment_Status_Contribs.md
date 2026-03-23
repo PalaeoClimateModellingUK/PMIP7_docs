@@ -10,6 +10,7 @@
 | lig127k | ✅ | ☐ | ☐ | ☐ |
 | lgm | ☐ | ☐ | ☐ | ☐ |
 | deepmip-p2-stand-5xCO2 | ✅ | ☐ | ☐ | ☐ |
+| MioMIP2 | ✅ | ☐ | ☐ | ☐ |
 | HighResPMIP | ☐ | ☐ | ☐ | ☐ |
 | PMIP-carbon | ☐ | ☐ | ☐ | ☐ |
 
