@@ -70,8 +70,28 @@ The table below is based on a spreadsheet provided by the PlioMIP3 coordinators.
 | 18 | Utrecht | CESM1.05 (CCSM4-Utr) | | |
 | 19 | Toronto | CCSM4-UoT | | |
 | 20 | LSCE | IPSLCM6A-LR | | Currently no plans; A-C Sarr starting new position in France early 2026 and will attempt runs then |
-| 21 | LSCE | IPSLCM5A2.1 | | |
-| 22 | LSCE | IPSLCM5A | | |
-| 23 | LSCE | IPSLCM7 | | |
 | 24 | MRI | MRI-CGCM 2.3 | | |
 
+## DeepMIP
+
+DeepMIP-Eocene is focused on the early Eocene climatic optimum (EECO). The protocol describing this experiment is currently under [open review at GMD](https://doi.org/10.5194/egusphere-2025-6135).They maintain a relatively up-to-date [website](https://www.deepmip.org/model-working-group/), from which the table below is taken.
+
+| # | Model | Contact |
+|---|---|---|
+|1| UKESM/HadGEM3 | Williams/Steinig/Lunt |
+|2| HadCM3 | Steinig/Lunt|
+|3| IPSL-CM5A2 | Ladant|
+|4| UVIC | Meissner|
+|5| GFDL | Hutchinson|
+|6| ACCESS | Hutchinson/Santra|
+|7|  NORESM | Z. Zhang|
+|8| AWI | Niezgodzki|
+|9| MIROC | Chan/Abe-Ouchi|
+|10| CESM1.2 | De Boer|
+|11| FGOALS | Zhao|
+|12| ICON | Kelemen|
+|13| CESM2/CESM3 | Zhu / Otto-Bliesner|
+|14| PlaSim | Rehfeld|
+|15| EC-Earth | Q. Zhang|
+|16| cGENIE | Ridgwell|
+|17| EC-Earth4 | Coppo/Davini|
