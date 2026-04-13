@@ -20,6 +20,11 @@ _Rationale:_ This manuscript will act as a bit of position piece to motivate PMI
 
 ### Benchmarking (AR6 part 1)
 
+* Provide a (brief) literature review of the benchmarking performed before: separate papers for periods; attempt to combine in IPCC 
+* Pull together the existing results from the various single-period papers into a single carpet diagram (mainly temp, but also a few hydroclimate). Include a single line for the historical temp trend (from general obs paper: take from CVDP?)
+* Talk about benchmarks and evaluation performed on other fields (e.g. ENSO in midH, salinity/density). Synthesise regional evaluations.
+* Discuss role of data assimilation generated 'reconstructions'. Highlight possible circularity. Can I add in Osman and Erb for MH. Osman for LGM and Tierney for Pliocene? 
+
 ### Insights into past climates
 
 ### Insight for future climate
