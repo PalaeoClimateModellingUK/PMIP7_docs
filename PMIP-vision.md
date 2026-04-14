@@ -28,7 +28,8 @@ _Rationale:_ This manuscript will act as a bit of position piece to motivate PMI
 ### Insights into past climates
 _I'm not so sure what wants to go in this section: ideas?_
 * lig127k was new inclusion in CMIP6. Lots of focus on Arctic - learnt that it was seasonally ice-free(?) and only few models can capture this
-* Maybe discuss how the model simulations can support insights being drawn from data: [Wharton et al|https://www.nature.com/articles/s41586-024-07655-y] and [Gray et al|https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023PA004666] as examples?
+* Some examples on the regional level?
+* Maybe discuss how the model simulations can support insights being drawn from data: [Wharton et al]|(https://www.nature.com/articles/s41586-024-07655-y) and [Gray et al]|(https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023PA004666) as examples?
 
 ### Insights for future climate
 
