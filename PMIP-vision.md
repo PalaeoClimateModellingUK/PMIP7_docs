@@ -26,7 +26,24 @@ _Rationale:_ This manuscript will act as a bit of position piece to motivate PMI
 * Discuss role of data assimilation generated 'reconstructions'. Highlight possible circularity. Can I add in Osman and Erb for MH. Osman for LGM and Tierney for Pliocene? 
 
 ### Insights into past climates
+_I'm not so sure what wants to go in this section: ideas?_
+* lig127k was new inclusion in CMIP6. Lots of focus on Arctic - learnt that it was seasonally ice-free(?) and only few models can capture this
+* Maybe discuss how the model simulations can support insights being drawn from data: [Wharton et al|https://www.nature.com/articles/s41586-024-07655-y] and [Gray et al|https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023PA004666] as examples?
 
-### Insight for future climate
+### Insights for future climate
+
+* A brief paragraph talking about the benefit of past for future insights.
+* Paragraph summarising multi-model studies that include the future: drawing connections within model world
+* Paragraph looking at paleo-constraints. Discuss Lunt et al (2024) constraining ECS directly using PMIP outputs. Jiang Zhu's palaeo-calibrated CESM2 and Peter Hopcroft's work
+* Paragraph pushing into work explaining the physical mechanisms: e.g. Yoshimori et al; He at al
+* Any quantitative examples (maybe Osman et al 2026) 
 
 ### Outlook for PMIP7
+
+* Brief description of CMIP7, and slightly shifted nature of PMIP within it
+* Describe abrupt127k experiment and focus on Arctic
+* Explain expansion into Miocene
+* Data assimilation and shift in focus of past2k simulation
+* Proxy modelling as a benchmarking approach (with mid-Holocene)?
+* Suggest something about near-term timings
+* Wider vision and summary
