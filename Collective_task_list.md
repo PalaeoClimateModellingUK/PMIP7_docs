@@ -12,3 +12,4 @@
 - [ ] Set up analysis plan for abrupt 127K
 - [ ] PMIP Hackathon?
 - [ ] Learn about REF, ESMValTool and CVDP v6. What should Chris/PMIP do?
+- [ ] Update WG-HEAD mailing lists
