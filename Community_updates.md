@@ -1,3 +1,35 @@
+# 29 Apr 2026
+
+Dear PMIP community,
+
+I am writing to give you a bit of an update on several fronts, so be prepared for a long read. Or you could watch the recording of last week’s PMIP-WINGS, whic will shortly be posted [here](https://www.youtube.com/playlist?list=PLKU3G-23arvmLlXJRLXy-jm_7FuAPCQ8U). 
+
+CMIP7 is progressing. Paleo was well represented at the recent CMIP Workshop in Japan. The ESGF functionality to store and share model output should come online shortly and has an adjusted naming convention. See https://wcrp-cmip.github.io/cmip7-guidance/docs/CMIP7/Guidance_for_users/ for more details.
+
+IPCC AR7 is fully underway. There is no dedicated past climates chapter, with paleo interspersed throughout the report. The IPCC authors will try to include assessment of paleo, where its relevant. But it would be helpful if you tell them about important papers that you published since AR6, or are currently working on. Papers can only be considered if they are submitted by March '27 and accepted by Sept '27. Complete the [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSejlgG_-xDmvnZwLcjVaUrZgCR6v_uIqnCvyn1EAzQprT2QzA/viewform) from Nerilie Abram to alert the IPCC authors of your work.  
+
+PMIP working groups have been busy with several experimental protocols now submitted, and more underway. 
+
+PMIP activities planned on the IPCC timeframe are
+- PMIP4+ papers: synthesise, combine and extend PMIP4 findings (watch out for calls for volunteers for these papers, and please plan your own and ask for help)
+- abrupt-127k (the PMIP contribution to the assessment fast track)
+  - Perform experiments and post to ESGF
+  - Ensemble analysis
+  - Community paper(s): comparing to LIG proxies, placing abrupt-127k in sea ice projections
+- PlioMIP3 initial results paper (few CMIP7 models)
+
+The majority of PMIP7 activity will occur beyond the IPCC deadlines (as in the previous PMIP). These consist of:
+- Creating and analyse palaeo-period ensembles
+- Conference [2027]: celebrate IPCC progress and plan activity
+- Working group workshops [2028/9]: undertake activities
+- Conference [2030]: Report and share results, conclude PMIP7 
+
+__Actions for you to do__:
+* submit your important studies for consideration by the IPCC via the [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSejlgG_-xDmvnZwLcjVaUrZgCR6v_uIqnCvyn1EAzQprT2QzA/viewform) 
+* Run simulations and/or get ready to write them up 
+* Follow PMIP-Announce for more further updates
+
+
 # 17 Jul 2025
 
 Hello PMIP folks,
